@@ -1,7 +1,7 @@
 <?php
 
 use DB as GlobalDB;
-
+// Define DB Class With att and functions  
 class DB{
     private $host = 'localhost';
     private $username='root';
