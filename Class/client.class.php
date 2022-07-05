@@ -1,5 +1,5 @@
 <?php
-
+// Define client Class With att and functions  
 class client 
 {
     private $name;
@@ -42,7 +42,7 @@ class client
 
 
 
-
+// Add Client Function To insert the data of the Client into the data base
     public static function AddClient($client)
     {
         //include("BD.php");
