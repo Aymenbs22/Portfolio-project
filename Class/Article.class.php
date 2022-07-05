@@ -1,5 +1,6 @@
 <?php
 require '../_header.php';
+// Define Article Class With att and functions  
 class Article
 {
     private $ref;
@@ -37,7 +38,7 @@ class Article
         return $s;
     }
 
-    
+    // Add Article Function To insert the data of the Article into the data base 
     public static function AddArticle($article)
     { 
        $DB= new DB();
@@ -49,7 +50,7 @@ class Article
         $statement->bindParam('5', $article->image);
         $statement->execute() ;//or die(print_r($statement->errorInfo()));
     }
-
+// Delete Article Function
     public static function DeleteArticle($ref)
     {
         $DB=new DB();
