@@ -1,5 +1,6 @@
 <?php
    // require '_header.php';
+// Define cart Class With att and functions  
 class cart
 {
     private $DB;
