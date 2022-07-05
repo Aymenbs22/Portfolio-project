@@ -1,4 +1,5 @@
 <?php
+// Define Appointement Class With att and functions
 class Appointement 
 {
     private $name;
@@ -19,6 +20,7 @@ class Appointement
         $this->number = $number;
 
     }
+    // Add Appointement Function To insert the data of the appointement into the data base
     public static function AddRdv($rdv)
     {
          /* we make include _header to called db.class.php 
