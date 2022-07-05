@@ -33,6 +33,22 @@ The best way to help BARBER.TN is to use it, report any problems you encounter, 
 Users are politely requested not to submit PRs to this project. Instead, kindly mark any problems or other ideas as issues so that we can make the required adjustments.
 Found a Bug ? Create an Issue.
 
+## The Story Of The project
+One day I went to the barber to cut my hair for an important event
+And I went too late to the event because the barbershop was full
+And it wasn't organized, I felt like I was wasting my time
+I said to myself why can't I make a website where you can make an appointment with a barber
+
+## Technologies
+Front-End:
+* HTML
+* CSS
+* JAVASCRIPT
+Back-End:
+* PHP
+* MySQL
+
+
 ## Features
 
 - Appointement System
