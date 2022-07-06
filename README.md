@@ -1,13 +1,14 @@
 # BARBER.TN (Portfolio-project)
-[Blog Post](https://www.linkedin.com/in/aymen-ben-slima-011712217/)
-
-[LinkedIn](https://www.linkedin.com/in/aymen-ben-slima-011712217/)
 
 
 
-## Description
+
+## Introduction
 Barber.tn is a web application where you can find everything you need
 about the barber you can make an appointment and you can buy cosmetics products...
+[Blog Post](https://www.linkedin.com/in/aymen-ben-slima-011712217/)
+[Deployed site](https://aymenbenslima0.wixsite.com/barbertn/)
+[LinkedIn](https://www.linkedin.com/in/aymen-ben-slima-011712217/)
 
 ## Installation
 - 1 Install Easyphp Or XAMPP
